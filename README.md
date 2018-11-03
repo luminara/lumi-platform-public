@@ -8,8 +8,7 @@ Luminara Blockchain is an Asset Tokenization Platform that enables its clients t
  
 __Luminara has been put on hold due to regulatory uncertainties__
 
-We have invested several months building up and training a small but competent team with expertise in blockchain technology as well as legal and financial aspects, and despite the progress we made, ended up deciding to put the project on hold and employ our passion and skillset to less labyrinthic and lobby-ridden industries. In other words: tokenizing assets is a regulatory and political nightmare.
-
+We have invested several months building up and training a small but competent team with expertise in blockchain technology as well as legal and financial aspects, and despite the progress we made, ended up deciding to put the project on hold and pursue an amazing and ambitious insight we came to by building Luminara.
 
 
 __We still love the blockchain__
