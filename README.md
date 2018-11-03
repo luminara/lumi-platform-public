@@ -20,4 +20,4 @@ Oh yeah baby.
 
 __What's next__
 
-As one of the first asset tokenization projects in Portugal, if not the first, we are proud of the path we have pioneered. We have learned a lot, and are leveraging that knowledge and experience to full use in our new project, git//scale, an economics platform for open source projects. It's a killer use case for algorithms, machine learning and the blockchain. Go check it out.
+As one of the first asset tokenization projects in Portugal, if not the first, we are proud of the path we have pioneered. We have learned a lot, and are leveraging that knowledge and experience to full use in our new project, [git//scale](https://www.github.com/gitscale), an economics platform for open source projects. It's a killer use case for algorithms, machine learning and the blockchain. Go check it out at [gitscale.io](http://gitscale.io).
